@@ -1,3 +1,2 @@
-# sistema-de-registro
-<h1>Sistema de registro de usuarios</h1>
-- primero
+<h1>Sistema de registro</h1>
+- Estado del proyecto: En construcción.
